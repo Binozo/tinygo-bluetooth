@@ -1,4 +1,4 @@
-module tinygo.org/x/bluetooth
+module github.com/Binozo/tinygo-bluetooth
 
 go 1.15
 
